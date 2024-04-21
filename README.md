@@ -5,10 +5,10 @@ A new Flutter project.
 
 ## SCREENSHOTS
 <p style="float: center;">
-  <img src="https://github.com/phanjan/cardani_t9/blob/main/screensshot/Screenshot_1713733724.png" width="22%"/>
-  <img src="https://github.com/phanjan/cardani_t9/blob/main/screensshot/Screenshot_1713733742.png" width="22%"/>
-  <img src="https://github.com/phanjan/cardani_t9/blob/main/screensshot/Screenshot_1713733748.png" width="22%"/>
-  <img src="https://github.com/phanjan/cardani_t9/blob/main/screensshot/Screenshot_1713733761.png" width="22%"/>
+  <img src="https://github.com/phanjan/cardani_t9/blob/main/screenshots/Screenshot_1713733724.png" width="22%"/>
+  <img src="https://github.com/phanjan/cardani_t9/blob/main/screenshots/Screenshot_1713733742.png" width="22%"/>
+  <img src="https://github.com/phanjan/cardani_t9/blob/main/screenshots/Screenshot_1713733748.png" width="22%"/>
+  <img src="https://github.com/phanjan/cardani_t9/blob/main/screenshots/Screenshot_1713733761.png" width="22%"/>
 </p>
 
 
